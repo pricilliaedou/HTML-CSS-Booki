@@ -256,6 +256,52 @@ p.hebergement-subtitle {
 }
 
 
+/* Activités */
+.activites {
+    padding: 20px;
+    margin-top: 20px;
+
+}
+
+.activites-card {
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+
+
+}
+
+
+.activites-card a {
+    width: 25%;
+    border-radius: 20px;
+    height: 450px;
+    margin-top: 20px;
+    background-color: white;
+    filter: drop-shadow(0px 3px 15px rgba(0, 0, 0, 0.1));
+    /* box-shadow: 0px 3px 15px 0px #0000001A; */
+}
+
+.activites-card img {
+    width: 100%;
+    border-radius: 20px 20px 0 0;
+    /* max-height: 380px; */
+    height: 85%;
+    object-fit: cover;
+
+}
+
+.activites-card-title {
+    display: flex;
+    align-items: center;
+    padding: 20px;
+}
+
+.activites-card-title h3 {
+    margin: 0;
+    font-size: 16px;
+
+}
 
 
 /* Le code ci-dessous correspond à la version responsive uniquement */
