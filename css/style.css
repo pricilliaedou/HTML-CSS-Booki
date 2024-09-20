@@ -373,6 +373,7 @@ footer {
 
 /* Small devices (phones, less than 768px) */
 @media (max-width: 767.98px) {
+<<<<<<< HEAD
     h1 {
         font-size: 20px;
         font-weight: 700;
@@ -441,6 +442,8 @@ footer {
         padding: 15px 5px 15px 10px;
     }
 
+=======
+>>>>>>> 578064d (responsive tablette et portable hebergements et activités)
     .hebergements-and-populaires {
         flex-direction: column-reverse;
     }
@@ -476,6 +479,7 @@ footer {
         height: 142px;
     }
 
+<<<<<<< HEAD
     footer {
         flex-direction: column;
     }
@@ -483,4 +487,6 @@ footer {
     .footer-div {
         width: 100%;
     }
+=======
+>>>>>>> 578064d (responsive tablette et portable hebergements et activités)
 }
