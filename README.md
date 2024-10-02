@@ -24,9 +24,17 @@ Integrated development environment used: Visual Studio Code.
 - HTML
 - CSS
 
+## Code validation W3C (HTML and CSS)
+
+![validation html](./images/validator/validator-html.webp)
+![validation css](./images/validator/validator-css.webp)
+
 ## Links
 
 deployment of the site on Netlify (https://docs.netlify.com/)
 
 - To view the site : https://html-css-booki.netlify.app/
 - To view the code : https://github.com/pricilliaedou/HTML-CSS-Booki.git
+
+Démo
+![démo GIF](./images/booki-gif.gif)
